@@ -1,0 +1,243 @@
+{
+  "data": {
+    "message" : "Hello Vue!",
+    "amount": 3000,
+    "applyId": "car-161208104228-646",
+    "approveResultVO": {
+      "amountFixed": 0,
+      "approveTime": null,
+      "periodsFixed": 0,
+      "remark": null,
+      "resultCode": null
+    },
+    "bidChannel": "1001",
+    "bidId": 0,
+    "carInfoVO": {
+      "actualPrice": 0,
+      "brand": "dhjf",
+      "carId": null,
+      "carPrice": 3000,
+      "channelPartners": null,
+      "dealerPhone": "13710010111",
+      "downPayment": 9000,
+      "driverName": "张露",
+      "driverNo": "8578346587365",
+      "driverRelation": 2,
+      "engineNo": null,
+      "insuranceAmount": 3000,
+      "model": "dsfh",
+      "purchaseTax": 3000,
+      "quota": 12000,
+      "sellers": "琳琳",
+      "vehicleTax": 3000
+    },
+    "createTime": 1481164948055,
+    "fileVOList": [],
+    "gdrVO": {
+      "userAssetsVO": {
+        "address": {
+          "address": null,
+          "city": null,
+          "cityId": null,
+          "county": null,
+          "countyId": null,
+          "createTime": null,
+          "postcode": null,
+          "province": null,
+          "provinceId": null,
+          "updateTime": null
+        },
+        "addressVO": {
+          "address": null,
+          "city": null,
+          "cityId": null,
+          "county": null,
+          "countyId": null,
+          "createTime": null,
+          "postcode": null,
+          "province": null,
+          "provinceId": null,
+          "updateTime": null
+        },
+        "carNum": 1,
+        "carYears": 0,
+        "houseNum": 2,
+        "houseTotalValue": 0
+      },
+      "userBasicVO": {
+        "addressVO": {
+          "address": null,
+          "city": null,
+          "cityId": null,
+          "county": null,
+          "countyId": null,
+          "createTime": null,
+          "postcode": null,
+          "province": null,
+          "provinceId": null,
+          "updateTime": null
+        },
+        "age": 0,
+        "assetVirtualAccId": 0,
+        "birthday": null,
+        "cardId": "344034890859384590",
+        "cardType": 0,
+        "createTime": null,
+        "edu": 2,
+        "islocal": 0,
+        "marriage": 0,
+        "mobile": "13710093757",
+        "name": "张三",
+        "sex": 0,
+        "uid": 0,
+        "updateTime": null
+      },
+      "userContactVOList": [],
+      "userJobVO": {
+        "addressVO": {
+          "address": "福建省三明市",
+          "city": "三明市",
+          "cityId": 350400,
+          "county": "尤溪县",
+          "countyId": 350426,
+          "createTime": null,
+          "postcode": null,
+          "province": "福建省",
+          "provinceId": 350000,
+          "updateTime": null
+        },
+        "comIncome": 335000,
+        "comName": "搜易贷",
+        "comType": 0,
+        "createTime": null,
+        "income": 0,
+        "industry": 2,
+        "jobLevel": 0,
+        "jobType": 2,
+        "opTime": 3,
+        "selfComType": 3,
+        "telephone": "010-00093989",
+        "title": "总监",
+        "updateTime": null,
+        "workYears": 0
+      }
+    },
+    "isHasGdr": 1,
+    "loanId": null,
+    "loanType": 30,
+    "periods": 36,
+    "periodsUnit": 1,
+    "repayMode": 1,
+    "status": 1,
+    "submitTime": null,
+    "uid": 1045611,
+    "updateTime": 1481165241442,
+    "userVO": {
+      "userAssetsVO": {
+        "address": {
+          "address": "内蒙古乌海市乌达区",
+          "city": "乌海市",
+          "cityId": 150300,
+          "county": "乌达区",
+          "countyId": 150304,
+          "createTime": null,
+          "postcode": null,
+          "province": "内蒙古自治区",
+          "provinceId": 150000,
+          "updateTime": null
+        },
+        "addressVO": {
+          "address": "内蒙古乌海市乌达区",
+          "city": "乌海市",
+          "cityId": 150300,
+          "county": "乌达区",
+          "countyId": 150304,
+          "createTime": null,
+          "postcode": null,
+          "province": "内蒙古自治区",
+          "provinceId": 150000,
+          "updateTime": null
+        },
+        "carNum": 1,
+        "carYears": 54550,
+        "houseNum": 2,
+        "houseTotalValue": 3435000
+      },
+      "userBasicVO": {
+        "addressVO": {
+          "address": "江苏省淮安市洪泽县",
+          "city": "淮安市",
+          "cityId": 320800,
+          "county": "洪泽县",
+          "countyId": 320829,
+          "createTime": null,
+          "postcode": null,
+          "province": "江苏省",
+          "provinceId": 320000,
+          "updateTime": null
+        },
+        "age": 34,
+        "assetVirtualAccId": 0,
+        "birthday": "19901910",
+        "cardId": "411323199010198760",
+        "cardType": 1,
+        "createTime": null,
+        "edu": 5,
+        "islocal": 1,
+        "marriage": 2,
+        "mobile": "13719090301",
+        "name": "蔡依林",
+        "sex": 1,
+        "uid": 1045611,
+        "updateTime": null
+      },
+      "userContactVOList": [
+        {
+          "contactName": "刘就",
+          "mobile": "18710091031",
+          "relation": 1,
+          "seqNo": 0,
+          "telephone": null,
+          "type": 1
+        },
+        {
+          "contactName": "张久",
+          "mobile": "13910011001",
+          "relation": 0,
+          "seqNo": 0,
+          "telephone": null,
+          "type": 2
+        }
+      ],
+      "userJobVO": {
+        "addressVO": {
+          "address": "福建省漳州市长泰县",
+          "city": "漳州市",
+          "cityId": 350600,
+          "county": "长泰县",
+          "countyId": 350625,
+          "createTime": null,
+          "postcode": null,
+          "province": "福建省",
+          "provinceId": 350000,
+          "updateTime": null
+        },
+        "comIncome": 3454000,
+        "comName": "畅游",
+        "comType": 0,
+        "createTime": null,
+        "income": 0,
+        "industry": 2,
+        "jobLevel": 0,
+        "jobType": 2,
+        "opTime": 2,
+        "selfComType": 2,
+        "telephone": "010-0009383",
+        "title": "总监",
+        "updateTime": null,
+        "workYears": 0
+      }
+    }
+  },
+  "errorCode": 0
+}
